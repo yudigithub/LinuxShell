@@ -5,3 +5,4 @@ the shell script i had Collect
 | 目录&文件        | 说明   |  备注  |
 | --------   | -----:  | :----:  |
 | profile     | Environment variable configuration |       |
+| ShadowsocksR     | Install ShadowsocksR Script |       |
